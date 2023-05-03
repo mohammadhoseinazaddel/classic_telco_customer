@@ -29,3 +29,11 @@ Use Python 3.x.
 2. Your code should be well-documented and follow best practices for software engineering.
 3. Your report should be clear and concise, with appropriate visualizations to support your claims.
 4. Your model should achieve an accuracy of at least 75% on the test set.
+
+
+installation
+```
+pip install -r requirements.txt
+```
+
+then run each block of ipynb
