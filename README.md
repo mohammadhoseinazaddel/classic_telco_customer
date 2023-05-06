@@ -36,4 +36,10 @@ installation
 pip install -r requirements.txt
 ```
 
+get your kaggle api key  with below guidence:
+https://github.com/Kaggle/kaggle-api#api-credentials
+
+*I wrote blocks for you to make it easy for you with guidence of each block run them*
+
+
 then run each block of ipynb
