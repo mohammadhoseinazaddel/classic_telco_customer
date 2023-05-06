@@ -43,3 +43,6 @@ https://github.com/Kaggle/kaggle-api#api-credentials
 
 
 then run each block of ipynb
+
+
+##TODO get perprocessing options from user 
